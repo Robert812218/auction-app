@@ -1,4 +1,4 @@
-namespace test_app;
+namespace auction_app;
 
 public class WeatherForecast
 {

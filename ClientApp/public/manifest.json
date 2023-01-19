@@ -1,6 +1,6 @@
 {
-  "short_name": "test_app",
-  "name": "test_app",
+  "short_name": "auction_app",
+  "name": "auction_app",
   "icons": [
     {
       "src": "favicon.ico",
